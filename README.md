@@ -1,4 +1,4 @@
--👋 Hi, I’m @junheeyeap
+-👋 Hi, I’m @iamjooon2
 
 -👀 I’m interested in frontend and javascript
 
@@ -6,4 +6,4 @@
 
 -💞️ I’m looking to collaborate on ...
 
--📫 How to reach me ... just email me junheeyeap@gmail.com
+-📫 How to reach me ... just email me iamjooon2@gmail.com
