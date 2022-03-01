@@ -1,6 +1,6 @@
 -👋 Hi, I’m @iamjooon2
 
--👀 I’m interested in frontend and javascript
+-👀 I’m interested in making web!!
 
 -🌱 I’m currently learning how to enjoy my life than i did
 
