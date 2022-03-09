@@ -1,4 +1,4 @@
-👋 Hi, I’m @iamjooon2
+- 👋 Hi, I’m @iamjooon2
 - 👀 I’m interested in earn money, enjoying life
 - 🌱 I’m currently learning how to enjoy my life than i did
 - 💞️ I’m looking to collaborate on ...
