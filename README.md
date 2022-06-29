@@ -1,5 +1,3 @@
-### Hi There👋
-
 - 👋 Hi, I’m @iamjooon2
 - 👀 I’m interested in developing server and enjoying life
 - 🌱 I’m currently learning how to enjoy my life than i did
